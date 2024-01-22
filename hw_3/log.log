@@ -1,0 +1,48 @@
+INFO | 2024-01-21 16:38:22,163 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:38:25,342 | basehttp | "GET / HTTP/1.1" 200 10629
+INFO | 2024-01-21 16:39:45,789 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw_3\urls.py changed, reloading.
+INFO | 2024-01-21 16:39:46,238 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:42:45,998 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:42:46,433 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:43:08,911 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:43:09,337 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:44:45,851 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:44:46,276 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:47:05,327 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:47:05,809 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:50:15,628 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:50:16,162 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 16:56:53,474 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\models.py changed, reloading.
+INFO | 2024-01-21 16:56:53,945 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 19:06:43,375 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 19:07:33,252 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\urls.py changed, reloading.
+INFO | 2024-01-21 19:07:33,627 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 19:08:42,679 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\views.py changed, reloading.
+INFO | 2024-01-21 19:08:43,073 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 19:08:49,178 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 20:34:29,994 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-21 20:34:32,759 | basehttp | "GET / HTTP/1.1" 200 11
+WARNING | 2024-01-21 20:35:06,382 | log | Not Found: /get_orders/5
+WARNING | 2024-01-21 20:35:06,382 | basehttp | "GET /get_orders/5 HTTP/1.1" 404 2659
+WARNING | 2024-01-21 20:35:16,122 | log | Not Found: /get_order/5
+WARNING | 2024-01-21 20:35:16,122 | basehttp | "GET /get_order/5 HTTP/1.1" 404 2656
+INFO | 2024-01-22 19:19:57,593 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-22 19:21:01,558 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\urls.py changed, reloading.
+INFO | 2024-01-22 19:21:01,970 | autoreload | Watching for file changes with StatReloader
+INFO | 2024-01-22 19:21:04,491 | basehttp | "GET / HTTP/1.1" 200 11
+WARNING | 2024-01-22 19:21:25,017 | log | Not Found: /get_order
+WARNING | 2024-01-22 19:21:25,017 | basehttp | "GET /get_order HTTP/1.1" 404 2650
+WARNING | 2024-01-22 19:22:17,156 | log | Not Found: /get_order/1
+WARNING | 2024-01-22 19:22:17,157 | basehttp | "GET /get_order/1 HTTP/1.1" 404 2656
+WARNING | 2024-01-22 19:27:52,776 | log | Not Found: /get_order/1
+WARNING | 2024-01-22 19:27:52,776 | basehttp | "GET /get_order/1 HTTP/1.1" 404 2656
+WARNING | 2024-01-22 19:29:37,369 | log | Not Found: /get_order/1
+WARNING | 2024-01-22 19:29:37,369 | basehttp | "GET /get_order/1 HTTP/1.1" 404 2656
+INFO | 2024-01-22 19:30:18,669 | autoreload | C:\Users\Алексей\PycharmProjects\Django_Homework_3\hw_3\hw1_app\views.py changed, reloading.
+INFO | 2024-01-22 19:30:19,065 | autoreload | Watching for file changes with StatReloader
+WARNING | 2024-01-22 19:30:22,759 | log | Not Found: /get_order/1
+WARNING | 2024-01-22 19:30:22,759 | basehttp | "GET /get_order/1 HTTP/1.1" 404 2656
+WARNING | 2024-01-22 19:32:35,295 | log | Not Found: /get_items1
+WARNING | 2024-01-22 19:32:35,295 | basehttp | "GET /get_items1 HTTP/1.1" 404 2653
+WARNING | 2024-01-22 19:32:43,250 | log | Not Found: /get_items/1
+WARNING | 2024-01-22 19:32:43,250 | basehttp | "GET /get_items/1 HTTP/1.1" 404 2656

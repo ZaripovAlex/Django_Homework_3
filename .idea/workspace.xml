@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecef286-8cab-4740-b155-a139f031b12a" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/create_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/create_item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/create_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/delete_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/delete_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/delete_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/fill_clients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/fill_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/management/commands/fill_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/templates/hw1_app/all_items.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/templates/hw1_app/all_orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/templates/hw1_app/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3/hw1_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fecef286-8cab-4740-b155-a139f031b12a" name="Changes" comment="add Homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +80,7 @@
       <workItem from="1705836317134" duration="2217000" />
       <workItem from="1705838549877" duration="40000" />
       <workItem from="1705838601502" duration="11604000" />
-      <workItem from="1705853050551" duration="11693000" />
+      <workItem from="1705853050551" duration="11998000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -117,15 +98,62 @@
       <option name="project" value="LOCAL" />
       <updated>1705839126968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Homework">
+      <option name="closed" value="true" />
+      <created>1705934948543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705934948543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework" />
   </component>
 </project>
